@@ -34,3 +34,7 @@ Shutdown               = Super + D -> cari Shutdown
 Reboot                 = manual pake terminal (sudo reboot now)
 </pre>
 
+# Preview!
+<img width="1366" height="768" alt="Last Preview" src="https://github.com/user-attachments/assets/219abfbb-8c26-4be2-bb34-cf1c1e4ef906" />
+<img width="1366" height="768" alt="1000160494" src="https://github.com/user-attachments/assets/e204b135-c88f-4c56-bada-fa7d890cc9f4" />
+<img width="1366" height="768" alt="1000160491" src="https://github.com/user-attachments/assets/b1629325-0ac5-4e48-8eaa-c60621a54e15" />
