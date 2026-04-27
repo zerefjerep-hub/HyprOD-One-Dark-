@@ -2,9 +2,11 @@
 Harusnya tinggal launch ./install.sh kelar.
 
 untuk wallpaper bisa clone git repo ini :<br>
-git clone https://github.com/AbdelrhmanNile/onedark-wallpapers --depth=1<br><br>
+<pre>
+git clone https://github.com/AbdelrhmanNile/onedark-wallpapers --depth=1</pre><br><br>
 Terus ketik ini di terminal:<br>
-awww img ./onedark-wallpapers/pilihFileGambar.formatnya --transition-type center<br>
+<pre>
+awww img ./onedark-wallpapers/pilihFileGambar.formatnya --transition-type center</pre><br>
 
 Rekomendasi Wallpaper :<br><br>
 <pre>
