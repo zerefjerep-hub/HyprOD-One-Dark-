@@ -16,7 +16,7 @@ Kalo tulisan di terminal kecil lakuin ini :<br>
 nvim ~/.config/kitty/kitty.conf<br>
 ubah angka font_size<br>
 
-#MAIN SHORTCUT
+# MAIN SHORTCUT
 <pre>
 Terminal (kitty)       = Super + Enter
 File Explorer (Thunar) = Super + E
