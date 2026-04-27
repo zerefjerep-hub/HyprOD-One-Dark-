@@ -1,0 +1,92 @@
+@import 'colors/one-dark.css';
+
+* {
+    border: none;
+    border-radius: 0px;
+
+    font-family: "Adwaita Sans", "JetBrainsMono Nerd Font Propo", sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+
+    min-height: 0px;
+    padding: 0;
+    margin: 0;
+}
+
+window#waybar {
+    background-color: transparent;
+    color: whitesmoke;
+}
+
+tooltip {
+    background: @bg0;
+    border: 1px solid @bg3;
+    border-radius: 12px;
+}
+
+tooltip label {
+    color: @fg;
+    padding: 6px;
+}
+
+#workspaces {
+    background: @bg0;
+    padding: 5px 3px;
+    margin: 0 0 0 10px;
+    border-radius: 12px;
+    border: 1px solid @bg3;
+    color: @fg;
+}
+
+#workspaces button {
+    padding: 0px 8px;
+    margin: 0 3px;
+    color: @fg;
+    background: @bg1;
+    border-radius: 6px;
+    transition: all 0.4s ease-in-out;
+}
+
+#workspaces button.active {
+    color: @fg;
+    background-color: @bg2;
+    min-width: 30px;
+    transition: all 0.4s ease-in-out;
+    border: 1px solid @grey0;
+}
+
+#workspaces button:hover {
+    background-color: @bg1;
+    color: @fg;
+    border: 1px solid @grey0;
+    transition: all 0.4s ease-in-out;
+}
+
+#workspaces button.urgent {
+    background-color: @grey2;
+    color: @fg;
+    border: 1px solid @yellow;
+}
+
+#battery,
+#pulseaudio,
+#network,
+#custom-notification,
+#clock {
+    padding: 0 6px;
+    font-size: 13px;
+}
+
+#custom-shutdown,
+#custom-archlogo,
+#custom-file {
+    padding-left: 12px;
+}
+
+#mpris {
+    padding-right: 12px;
+}
+
+#clock {
+    padding-right: 12px;
+}
